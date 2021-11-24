@@ -1,0 +1,4 @@
+﻿  Lottery Winners.cpp
+C:\Users\Sam Mallet\source\repos\Lottery Winners\Lottery Winners\Lottery Winners.cpp(17,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam Mallet\source\repos\Lottery Winners\Lottery Winners\Lottery Winners.cpp(24,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lottery Winners.vcxproj -> C:\Users\Sam Mallet\source\repos\Lottery Winners\Debug\Lottery Winners.exe

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SillyString
+comment1.params=
+comment1.target=SillyString()
+comment2.params=str
+comment2.target=java.lang.String\ reverse(java.lang.String)
+comment2.text=\r\n\ private\ helper\ method\ to\ reverse\ the\ order\ of\ a\ String\r\n\ I\ made\ it\ private\ because\ I\ don't\ want\ anyone\ to\ use\ it\ outside\ of\ this\ class.\r\n
+comment3.params=str
+comment3.target=void\ addString(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=word
+comment5.target=void\ removeWord(java.lang.String)
+comment5.text=\r\n\ This\ method\ takes\ a\ String\ parameter,\ word.\ \ It\ will\ reverse\ the\ word,\ and\ then\ search\r\n\ for\ it\ in\ the\ list.\ \ It\ will\ remove\ the\ word\ from\ the\ list,\ and\ print\ out\ the\ word\ that\r\n\ was\ removed.\r\n
+numComments=6

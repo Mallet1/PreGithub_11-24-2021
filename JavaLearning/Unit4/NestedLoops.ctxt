@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NestedLoops
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s1\ s2
+comment2.target=java.lang.String\ mirrorEnds(java.lang.String,\ java.lang.String)
+comment2.text=Given\ 2\ strings,\ look\ for\ a\ "mirror"\ string\ at\ the\ beginning\ of\ the\ first\ string\ that\ matches\ the\ end\ of\r\n\ the\ second\ string,\ but\ in\ reverse.\ \r\nIn\ other\ words,\ zero\ or\ more\ characters\ at\ the\ very\ begining\ of\ the\ first\ string,\ \r\nand\ at\ the\ very\ end\ of\ the\ second\ string\ in\ reverse\ order.\ \r\nFor\ example,\ \ in\ the\ strings\ "goodness"\ and\ "dog",\ the\ "go"\ in\ the\ first\ string\ matches\ the\ "og"\ in\ the\ second\ string\r\nand\ returns\ "go".\r\n\r\nmirrorEnds("abcdef",\ "cba")\ \u2192\ "abc"\r\nmirrorEnds("",\ "hey")\ \u2192\ ""\r\nmirrorEnds("redo",\ "mother")\ \u2192\ "re"\r\nmirrorEnds("abcd",\ "xyz")\ \u2192\ ""\r\nmirrorEnds("x","x")\ \u2192\ "x"\r\nmirrorEnds("abc",\ "fedcba")\ \u2192\ "abc"\r\n
+numComments=3

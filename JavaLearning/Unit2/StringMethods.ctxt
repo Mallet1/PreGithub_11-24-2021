@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StringMethods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s
+comment2.target=java.lang.String\ removeHTML(java.lang.String)
+comment2.text=\r\n\ removeHTML()--takes\ a\ String\ parameter\ that\ represents\ an\ HTML\ tag,\ removes\ the\ '<'\ and\ '>',\ converts\ it\ to\ all\r\n\ lowercase\ letters,\ and\ returns\ the\ result.\r\n\ Precondition\:\ The\ parameter\ is\ a\ String\ in\ the\ form\ "<"\ +\ string\ +\ ">".\r\n\ \r\n\ A\ precondition\ is\ an\ assumption\ you\ can\ make\ about\ the\ parameter(s).\r\n\ \r\n
+comment3.params=s\ ch
+comment3.target=java.lang.String\ split(java.lang.String,\ char)
+comment3.text=\r\n\ split()--takes\ a\ String\ parameter\ and\ a\ char\ parameter,\ splits\ the\ string\ into\ two\ words,\ with\ the\ split\ occurring\ at\ the\r\n\ char\ parameter,\ and\ returns\ a\ String\ made\ up\ of\ these\ two\ words.\r\n\ Precondition\:\ The\ char\ parameter\ appears\ exactly\ once\ in\ the\ String\ parameter.\r\n\ \r\n\ \r\n
+comment4.params=b
+comment4.target=java.lang.String\ birthday(java.lang.String)
+numComments=5

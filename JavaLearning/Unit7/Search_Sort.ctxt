@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Search_Sort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ print(int[])
+comment3.params=a\ num
+comment3.target=int\ search(int[],\ int)
+comment3.text=\r\n\ Linear\ search\:\ return\ index\ of\ num\ in\ a,\ -1\ if\ not\ found.\r\n\ Best\ Case\:\ num\ is\ at\ the\ beginning\ of\ a\r\n\ Worst\ Case\:\ num\ is\ at\ the\ end\ of\ a\ or\ not\ in\ a\r\n\ Average\ Case\:\ a.length/2\r\n
+comment4.params=a
+comment4.target=void\ selection(int[])
+comment4.text=\r\n\ Selection\ sort\r\n\ The\ number\ of\ comparisons\ is\ ALWAYS\ n(n-1)/2.\r\n
+comment5.params=a
+comment5.target=void\ insertion(int[])
+comment5.text=\r\n\ Insertion\ sort\:\r\n\ Best\ Case\:\ The\ list\ is\ already\ in\ order.\r\n\ Worst\ Case\:\ The\ list\ is\ in\ reverse\ order.\r\n
+comment6.params=a
+comment6.target=void\ selection(java.util.ArrayList)
+comment6.text=\r\n\ Overloaded\ selection\ sort\ for\ ArrayList\ of\ Integers\r\n\ We\ need\ to\ use\ ArrayList\ methods\:\ size(),\ get(),\ set()\r\n
+numComments=7

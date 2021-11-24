@@ -1,0 +1,5 @@
+﻿  Baseball Champions.cpp
+C:\Users\Sam Mallet\source\repos\Baseball Champions\Baseball Champions\Baseball Champions.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Baseball Champions\Baseball Champions\Baseball Champions.cpp(32,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Baseball Champions\Baseball Champions\Baseball Champions.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+  Baseball Champions.vcxproj -> C:\Users\Sam Mallet\source\repos\Baseball Champions\Debug\Baseball Champions.exe

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ Child\ class\ of\ SchoolEmployee\ (extends\ SchoolEmployee)\r\n\ Shows\ inheritance\r\n\ A\ Teacher\ "IS-A"\ SchoolEmployee\r\n\ A\ Teacher\ "IS-A"\ Occupation\r\n\ A\ Teacher\ "IS-A"\ Object\r\n\ All\ public\ methods/fields\ from\ the\ parent\ class\ are\ inherited.\r\n\ Constructors\ are\ not\ inherited\!\r\n\ If\ no\ constructors\ are\ defined,\ then\ a\ default,\ no-args\ contructor\ will\ be\ automatically\ defined\r\n\ which\ sets\ all\ fields\ from\ the\ child\ class\ to\ default\ values\ and\ calls\ the\ default\ constructor\r\n\ from\ the\ parent\ class\ (if\ one\ exists).\r\n\ (Defaults\:\ ints/doubles\=0,\ booleans\=false,\ objects\ (including\ arrays\ and\ Strings)\=null)\r\n
+comment1.params=
+comment1.target=Teacher()
+comment2.params=s\ h\ n\ school\ p\ subj\ t
+comment2.target=Teacher(double,\ int,\ java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getSubject()
+comment4.params=
+comment4.target=boolean\ getTenure()
+comment5.params=t
+comment5.target=void\ setTenure(boolean)
+comment6.params=
+comment6.target=void\ getFired()
+comment6.text=\r\n\ getFired()--prints\ out\ that\ the\ teacher\ is\ fired\ if\ they\ \r\n\ don't\ have\ tenure.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Inherited\ methods\:\ toString(),\ philosophy(),\ aspirations()\r\n\ The\ method\ headers\ must\ match\ the\ parent\ class\!\r\n
+comment8.params=
+comment8.target=java.lang.String\ philosophy()
+comment9.params=
+comment9.target=java.lang.String\ aspirations()
+numComments=10

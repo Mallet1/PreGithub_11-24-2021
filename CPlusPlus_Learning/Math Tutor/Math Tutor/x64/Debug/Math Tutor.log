@@ -1,0 +1,3 @@
+﻿  Math Tutor.cpp
+C:\Users\Sam Mallet\source\repos\Math Tutor\Math Tutor\Math Tutor.cpp(13,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Math Tutor.vcxproj -> C:\Users\Sam Mallet\source\repos\Math Tutor\x64\Debug\Math Tutor.exe

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Money
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=word
+comment2.target=char\ getRandChar(java.lang.String)
+comment3.params=twoWords
+comment3.target=java.lang.String\ simplify(java.lang.String)
+comment4.params=newName\ animal
+comment4.target=java.lang.String\ getSecretName(java.lang.String,\ java.lang.String)
+numComments=5

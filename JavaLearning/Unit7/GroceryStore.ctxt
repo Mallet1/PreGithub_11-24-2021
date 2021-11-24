@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GroceryStore
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=f
+comment2.target=void\ printList(FoodList)
+comment3.params=f
+comment3.target=void\ removeItems(FoodList)
+comment4.params=f
+comment4.target=void\ addItems(FoodList)
+comment5.params=f
+comment5.target=void\ checkOut(FoodList)
+numComments=6

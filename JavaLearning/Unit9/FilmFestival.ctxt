@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=FilmFestival
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ removeDups(java.util.ArrayList)
+comment2.text=\r\n\ Remove\ duplicate\ Movies\ in\ arr--must\ use\ the\ equals\ method\ from\ Movie\ to\ determine\ if\ Movies\ are\ equal\r\n\ Be\ careful--removing\ from\ an\ ArrayList\ shifts\ the\ indices\r\n\ Decrease\ total\ movies\ using\ accessor\ and\ modifier\ of\ static\ variable\ totalMovies\ in\ Movie\r\n
+comment3.params=arr
+comment3.target=void\ printMovies(java.util.ArrayList)
+comment3.text=\r\n\ Print\ total\ movies\ using\ accessor\ of\ static\ variable\ totalMovies\ in\ Movie\r\n\ Print\ Movies\ in\ arr\ by\ calling\ the\ toString()\ method\ (for-each\ loop\ suggested)\r\n
+comment4.params=arr
+comment4.target=void\ sortMovies(java.util.ArrayList)
+comment4.text=\r\n\ Sort\ arr\ using\ either\ Selection\ Sort\ or\ Insertion\ Sort\r\n\ You\ must\ use\ the\ getBetter()\ method\ from\ Movie\r\n
+comment5.params=arr
+comment5.target=void\ violentMovies(java.util.ArrayList)
+comment5.text=\r\n\ Call\ changeRating()\ for\ every\ Action\ movie\ in\ arr.\ (for-each\ loop\ suggested)\r\n\ Print\ the\ TITLE\ of\ any\ movie\ that\ was\ changed.\r\n
+comment6.params=arr
+comment6.target=void\ familyMovies(java.util.ArrayList)
+comment6.text=\r\n\ print\ out\ TITLE\ of\ every\ Movie\ in\ arr\ with\ a\ G\ rating\ (for-each\ loop\ suggested)\r\n
+comment7.params=arr
+comment7.target=void\ tomMovies(java.util.ArrayList)
+comment7.text=\r\n\ print\ out\ the\ TITLE\ of\ every\ Movie\ in\ arr\ that\ stars\ an\ actor\ with\ a\ first\ name\ of\ Tom\r\n\ Just\ check\ the\ first\ three\ letters\ of\ every\ actor\ to\ see\ if\ they\ are\ equal\ to\ Tom\r\n\ Make\ sure\ every\ movie\ is\ printed\ ONCE\ (Inception\ has\ 2\ Toms)\r\n\ (Notice\ I\ spelled\ Jonathan\ Taylor\ Thomas'\ name\ incorrectly\ (Tomas)\ to\ make\ sure\ you\ check\r\n\ the\ FIRST\ three\ letters.)\r\n\ You\ must\ use\ SUBSTRING\ OR\ INDEXOF.\r\n
+comment8.params=arr
+comment8.target=void\ showMovies(java.util.ArrayList)
+comment8.text=\r\n\ Increase\ the\ views\ for\ every\ Movie\ in\ arr\ by\ a\ random\ integer\ from\ 50-500\r\n\ This\ means\ that\ you\ need\ a\ loop\ for\ every\ movie\ that\ goes\ "views"\ times.\r\n\ If\ the\ movie\ is\ a\ Comedy,\ increase\ the\ laughs\ by\ a\ random\ number\ from\ 0-50\ by\ calling\ the\ overloaded\ showMovie.\r\n\ Call\ the\ showMovie\ method\ from\ Movie\ for\ every\ other\ type\ of\ movie.\r\n\ (for-each\ loop\ suggested)\r\n
+numComments=9

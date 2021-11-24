@@ -1,0 +1,3 @@
+﻿  Random Number Guessing Game.cpp
+C:\Users\Sam Mallet\source\repos\Random Number Guessing Game\Random Number Guessing Game\Random Number Guessing Game.cpp(11,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Number Guessing Game.vcxproj -> C:\Users\Sam Mallet\source\repos\Random Number Guessing Game\Debug\Random Number Guessing Game.exe

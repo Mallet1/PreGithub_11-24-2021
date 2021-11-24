@@ -1,0 +1,10 @@
+Monday sunny. Temperature High 69. Low 40.
+
+Tuesday windy. Temperature High 86. Low 67.
+
+Wednesday rainy. Temperature High 47. Low 20.
+
+Thursday snowy. Temperature High 30. Low 9.
+
+Friday tornado. Temperature High 50. Low 22.
+

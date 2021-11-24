@@ -1,0 +1,6 @@
+﻿  Final Project.cpp
+C:\Users\Sam Mallet\source\repos\Final Project\Final Project\Final Project.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Final Project\Final Project\Final Project.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Final Project\Final Project\Final Project.cpp(174,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Final Project\Final Project\Final Project.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+  Final Project.vcxproj -> C:\Users\Sam Mallet\source\repos\Final Project\Debug\Final Project.exe

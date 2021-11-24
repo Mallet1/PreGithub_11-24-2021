@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArrayListAlgorithms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ fill(java.util.ArrayList)
+comment2.text=\r\n\ Fill\ the\ Integer\ ArrayList\ a\ with\ a\ random\ number\ of\ values\ from\ 5-10.\r\n\ Each\ value\ should\ be\ a\ random\ integer\ from\ 1-50\r\n\ Precondition\:\ a\ is\ an\ empty\ ArrayList\r\n\ \r\n
+comment3.params=a
+comment3.target=int\ countBig(java.util.ArrayList)
+comment3.text=\r\n\ Return\ the\ number\ of\ Integers\ in\ a\ greater\ than\ 25\ \r\n
+comment4.params=a
+comment4.target=void\ removeEven(java.util.ArrayList)
+comment4.text=\r\n\ Remove\ every\ even\ value\ from\ a\r\n\ \r\n\ You\ should\ go\ backwards\ if\ using\ a\ for\ loop\ to\ remove\ items\!\r\n\ Example\:\ a\ \=\ {3,\ 5,\ 6,\ 8,\ 10,\ 1}\ remove\ the\ 6\ at\ i\ \=\ 2\r\n\ a\ \=\ {3,\ 5,\ 8,\ 10,\ 1}\ i++\ makes\ i\ \=\ 3,\ which\ is\ the\ 10\r\n\ The\ 8\ was\ skipped\!\r\n
+comment5.params=w
+comment5.target=void\ toUpper(java.util.ArrayList)
+comment5.text=\r\n\ Converts\ a\ String\ ArrayList\ so\ that\ all\ elements\ are\ strictly\ uppercase\ letters\r\n\ Precondition\:\ w\ is\ an\ empty\ ArrayList\r\n
+comment6.params=s
+comment6.target=java.util.ArrayList\ firstLets(java.util.ArrayList)
+comment6.text=\r\n\ Converts\ a\ new\ ArrayList\ of\ Strings\ that\ holds\ the\ first\ letters\ of\ all\ of\ the\ Strings\ in\ s\r\n\ Precondition\:\ s\ is\ non-empty\r\n\ Postcondition\:\ s\ remains\ unchanged\r\n
+numComments=7

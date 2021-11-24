@@ -1,0 +1,4 @@
+﻿  Rotate Left.cpp
+C:\Users\Sam Mallet\source\repos\Rotate Left\Rotate Left\Rotate Left.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Rotate Left\Rotate Left\Rotate Left.cpp(20): message : see reference to function template instantiation 'void output<int>(std::vector<int,std::allocator<int>>)' being compiled
+  Rotate Left.vcxproj -> C:\Users\Sam Mallet\source\repos\Rotate Left\Debug\Rotate Left.exe

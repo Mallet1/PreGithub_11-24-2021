@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Workforce
+comment0.text=\r\n\ Client/Driver\ class--Uses\ the\ classes\ we\ made,\ main\ method\r\n\ DO\ NOT\ USE\ EXTENDS\r\n\ A\ Workforce\ "HAS-A"\ Occupation,\ Programmer,\ SchoolEmployee,\ Teacher,\ Principal\ because\ it\ uses\ those\ classes.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ setOccs(Occupation[])
+comment3.params=arr
+comment3.target=void\ printOccs(Occupation[])
+comment4.params=arr
+comment4.target=void\ philosophize(Occupation[])
+comment4.text=\r\n\ Another\ polymorphism\ example\:\ correct\ philosophy\ method\ is\ called\ for\ each\ object\r\n
+comment5.params=arr
+comment5.target=void\ dream(Occupation[])
+comment5.text=\r\n\ Another\ polymorphism\ example\:\ correct\ aspirations\ method\ is\ called\ for\ each\ object\r\n
+comment6.params=arr
+comment6.target=void\ unique(Occupation[])
+comment6.text=\r\n\ unique()\ is\ going\ to\ call\ methods\ that\ are\ unique\ to\ the\ different\ types\ of\ occupations.\r\n\ instanceOf\ will\ determine\ if\ the\ occupations\ are\ of\ a\ certain\ type.\r\n\ You\ CANNOT\ use\ polymorphism\ here\ because\ these\ methods\ were\ not\ defined\ in\ the\ parent\ class.\r\n\ You\ must\ type\ cast\ each\ object\ or\ the\ program\ will\ not\ compile.\r\n
+numComments=7

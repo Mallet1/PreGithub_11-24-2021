@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ForEach
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=double\ findAverage(int[])
+comment2.text=\r\n\ findAverage--takes\ an\ int\ array\ and\ returns\ the\ average\ \r\n\ (could\ be\ a\ decimal)\r\n\ precondition\ --\ a.length\ >\ 0\r\n
+comment3.params=arr
+comment3.target=int\ findMax(int[])
+comment4.params=arr
+comment4.target=int\ findMode(int[])
+numComments=5

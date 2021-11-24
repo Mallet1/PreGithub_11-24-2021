@@ -1,0 +1,6 @@
+﻿  Static Extra Credit.cpp
+C:\Users\Sam Mallet\source\repos\Static Extra Credit\Static Extra Credit\Static Extra Credit.cpp(27,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sam Mallet\source\repos\Static Extra Credit\Static Extra Credit\Static Extra Credit.cpp(27,24): warning C4183: 'intVal': missing return type; assumed to be a member function returning 'int'
+C:\Users\Sam Mallet\source\repos\Static Extra Credit\Static Extra Credit\Static Extra Credit.cpp(28,5): error C2059: syntax error: '{'
+C:\Users\Sam Mallet\source\repos\Static Extra Credit\Static Extra Credit\Static Extra Credit.cpp(28,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Sam Mallet\source\repos\Static Extra Credit\Static Extra Credit\Static Extra Credit.cpp(36,24): error C2761: 'int IntVal::valCount(void)': redeclaration of member is not allowed

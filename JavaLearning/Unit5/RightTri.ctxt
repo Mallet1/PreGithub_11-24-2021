@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RightTri
+comment1.params=
+comment1.target=RightTri()
+comment2.params=legLength
+comment2.target=RightTri(double)
+comment3.params=RightTri
+comment3.target=RightTri(RightTri)
+comment4.params=
+comment4.target=double\ hypotenuse()
+comment5.params=angle
+comment5.target=double\ tangent(double)
+comment6.params=
+comment6.target=double\ area()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ drawTri()
+comment9.params=letter
+comment9.target=void\ setDrawChar(char)
+numComments=10

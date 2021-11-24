@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Worker
+comment1.params=rate\ hours
+comment1.target=Worker(double,\ double)
+comment2.params=
+comment2.target=void\ calculateEarnings()
+comment3.params=
+comment3.target=double\ getEarnings()
+numComments=4

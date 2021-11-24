@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Fraction
+comment1.params=
+comment1.target=Fraction()
+comment1.text=if\ no\ constructors\ are\ written,\ a\ default\ is\ provided\ that\ initializes\ all\ fields\ to\ 0,\ booleans\ to\ false,\ \ \r\n\ object\ to\ null.\ \ \r\n\ This\ is\ not\ always\ good\ -\ in\ this\ instance,\ it\ would\ create\ a\ fraction\ where\ both\ numerator\ and\ denominator\ are\ zero\!\ \r\n\ That\ fraction\ is\ undefined\!\ \ So\ providing\ your\ own\ default\ is\ sometimes\ a\ good\ idea.\ \ \r\nIf\ you\ provide\ at\ least\ one\ constructor\ of\ your\ own,\ the\ default\ is\ not\ provided)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment10.text=method\:\ toString\ (from\ Object\ class--inherited\ by\ all\ classes)\r\n\ \ \ \ Precondition\:\ accessed\ by\ a\ particular\ instance\ of\ the\ Fraction\ class\r\n\ \ \ \ Postcondition\:\ returns\ the\ fraction\ as\ a\ string\ for\ output\r\n
+comment11.params=x\ y
+comment11.target=int\ gcf(int,\ int)
+comment11.text=method\:\ gcf\ \ -\ This\ is\ a\ private\ "helper"\ method.\ Its\ only\ purpose\ is\ to\ "help"\ us\ reduce\ the\ Fraction.\r\n\ Since\ we\ only\ need\ it\ inside\ of\ the\ class,\ we\ will\ make\ it\ private.\r\n\r\n\ Precondition\:\ two\ integer\ arguments\ passed\ in,\ x\ and\ y.\ \ x>\=0,\ y>0\r\n\ Postcondition\:\ returns\ the\ greatest\ common\ factor\ \r\n\ of\ two\ positive\ integers\r\n
+comment12.params=
+comment12.target=void\ reduce()
+comment12.text=method\:\ reduce--Fractions\ will\ automatically\ be\ reduced\ when\ cosntructed,\ so\ we\ don't\ need\ to\ provide\ access\ outside\r\n\ of\ this\ class.\ Therefore,\ we\ will\ make\ it\ private.\r\n\ Precondition\:\ accessed\ by\ a\ particular\ method\ of\ the\ Fraction\ class,from\ within\ the\ class\r\n\ Postcondition\:\ converts\ the\ fraction\ to\ lowest\ terms.\r\n
+comment2.params=n
+comment2.target=Fraction(int)
+comment3.params=n\ d
+comment3.target=Fraction(int,\ int)
+comment3.text=Precondition\:\ d\ cannot\ \=\ 0
+comment4.params=f
+comment4.target=Fraction(Fraction)
+comment5.params=
+comment5.target=int\ getNum()
+comment5.text=\r\n\ Accessors\ (Getters)\r\n\ give\ access\ to\ the\ fields\r\n
+comment6.params=
+comment6.target=int\ getDenom()
+comment7.params=n
+comment7.target=void\ setNum(int)
+comment7.text=\r\n\ Modifiers/Mutators\ (Setters)\r\n\ modify\ a\ field\r\n
+comment8.params=d
+comment8.target=void\ setDenom(int)
+comment9.params=
+comment9.target=double\ getValue()
+comment9.text=method\:\ getValue\r\n\ \ \ \ Precondition\:\ accessed\ by\ a\ particular\ instance\ of\ the\ Fraction\ class\r\n\ \ \ \ Postcondition\:\ returns\ the\ decimal\ value\ of\ the\ fraction\ as\ a\ double\r\n
+numComments=13

@@ -1,0 +1,6 @@
+﻿  Twins' Birthday Party.cpp
+C:\Users\Sam Mallet\source\repos\Twins' Birthday Party\Twins' Birthday Party\Twins' Birthday Party.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Twins' Birthday Party\Twins' Birthday Party\Twins' Birthday Party.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Twins' Birthday Party\Twins' Birthday Party\Twins' Birthday Party.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Twins' Birthday Party\Twins' Birthday Party\Twins' Birthday Party.cpp(133,23): warning C4018: '<': signed/unsigned mismatch
+  Twins' Birthday Party.vcxproj -> C:\Users\Sam Mallet\source\repos\Twins' Birthday Party\Debug\Twins' Birthday Party.exe

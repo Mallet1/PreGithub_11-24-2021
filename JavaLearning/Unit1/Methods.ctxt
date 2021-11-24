@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Methods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ hello()
+comment2.text=\r\n\ Void\ method--no\ return\ type,\ usually\ used\ when\ you\ want\ to\ print\r\n\ something\r\n
+comment3.params=name
+comment3.target=void\ helloName(java.lang.String)
+comment4.params=name
+comment4.target=java.lang.String\ getNickname(java.lang.String)
+comment5.params=x
+comment5.target=int\ round(double)
+comment6.params=x\ y\ z
+comment6.target=int\ average(int,\ int,\ int)
+numComments=7

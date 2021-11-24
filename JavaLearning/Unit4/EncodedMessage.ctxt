@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EncodedMessage
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=codeWord
+comment2.target=java.lang.String\ getRandString(java.lang.String)
+comment3.params=original\ codeWord
+comment3.target=java.lang.String\ encode(java.lang.String,\ java.lang.String)
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SchoolEmployee
+comment0.text=\r\n\ Child\ class\ of\ Occupation\ (extends\ Occupation)\r\n\ Shows\ inheritance\r\n\ A\ SchoolEmployee\ "IS-A"\ Occupation\r\n\ A\ SchoolEmployee\ "IS-A"\ Object\r\n\ All\ public\ methods/fields\ from\ the\ parent\ class\ are\ inherited.\r\n\ Constructors\ are\ not\ inherited\!\r\n\ If\ no\ constructors\ are\ defined,\ then\ a\ default,\ no-args\ contructor\ will\ be\ automatically\ defined\r\n\ which\ sets\ all\ fields\ from\ the\ child\ class\ to\ default\ values\ and\ calls\ the\ default\ constructor\r\n\ from\ the\ parent\ class\ (if\ one\ exists).\r\n\ (Defaults\:\ ints/doubles\=0,\ booleans\=false,\ objects\ (including\ arrays\ and\ Strings)\=null)\r\n
+comment1.params=
+comment1.target=SchoolEmployee()
+comment10.params=
+comment10.target=java.lang.String\ aspirations()
+comment2.params=s\ d\ h\ n\ school\ p
+comment2.target=SchoolEmployee(double,\ boolean,\ int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getSchool()
+comment4.params=
+comment4.target=boolean\ getPublic()
+comment5.params=school
+comment5.target=void\ setSchool(java.lang.String)
+comment6.params=p
+comment6.target=void\ setPublic(boolean)
+comment7.params=award
+comment7.target=void\ winsAward(java.lang.String)
+comment7.text=\r\n\ winsAward(String\ award)--prints\ out\ award\ that\ employee\ won.\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ Inherited\ methods\:\ toString(),\ philosophy(),\ aspirations()\r\n\ The\ method\ headers\ must\ match\ the\ parent\ class\!\r\n
+comment9.params=
+comment9.target=java.lang.String\ philosophy()
+numComments=11

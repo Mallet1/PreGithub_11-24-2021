@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SillyTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ printList(java.util.ArrayList)
+comment3.params=arr
+comment3.target=void\ addSilly(java.util.ArrayList)
+comment3.text=\r\n\ Ask\ the\ user\ for\ 3\ animals\ and\ add\ these\ animals\ to\ a\ new\ SillyString.\ \ (Use\ a\ loop\ for\ this\ part\!)\r\n\ Then,\ add\ the\ SillyString\ onto\ the\ end\ of\ arr.\r\n
+comment4.params=arr
+comment4.target=void\ addWords(java.util.ArrayList)
+comment4.text=\r\n\ Ask\ the\ user\ for\ 3\ animals\ (using\ a\ loop).\ \ Add\ these\ three\ animals\ onto\ every\ SillyString\ in\ arr.\r\n
+numComments=5

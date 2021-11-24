@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ArrayAlgorithms
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=boolean\ findEven(int[])
+comment2.text=\r\n\ Algorithm\:\ Determine\ if\ at\ least\ one\ element\ has\ a\ particular\ property.\u0000\r\n\ \r\n\ findEven()--return\ true\ if\ int\ array\ parameter\ has\ an\ even\ element,\ false\ otherwise\r\n\ \r\n\ I\ used\ an\ indexed\ for\ loop.\ See\ if\ you\ can\ rewrite\ it\ using\ a\ for-each\ loop.\r\n\ \r\n
+comment3.params=a
+comment3.target=int\ countDoubles(int[])
+comment3.text=\r\n\ Algorithm\:\ Access\ all\ consecutive\ pairs\ of\ elements.\u0000\r\n\ \r\n\ countDoubles()--return\ the\ number\ of\ times\ two\ consecutive\ elements\ of\ an\ \r\n\ int\ array\ parameter\ are\ the\ same\r\n\ (Note\:\ {1,1,1}\ would\ return\ 2\ because\ there\ are\ 2\ consecutive\ pairs.)\r\n\ \r\n\ Can\ you\ use\ a\ for-each\ loop\ for\ this?\r\n
+comment4.params=a
+comment4.target=void\ shiftLeft(int[])
+comment4.text=\r\n\ Algorithm\:\ Shift\ or\ rotate\ elements\ left\ or\ right\ (and\ wrap\ around).\u0000\r\n\ \r\n\ shiftLeft()--takes\ an\ int\ array\ and\ shifts\ every\ element\ one\ to\ the\ left\r\n\ The\ first\ element\ will\ become\ the\ last\ element.\r\n\ \r\n\ shiftRight()--takes\ an\ int\ array\ and\ shifts\ every\ element\ one\ to\ the\ right\r\n\ The\ last\ element\ will\ become\ the\ first\ element.\r\n
+comment5.params=a
+comment5.target=void\ shiftRight(int[])
+comment6.params=a\ x
+comment6.target=void\ rotate(int[],\ int)
+comment6.text=\r\n\ Test\ previous\ two\ methods\r\n\ rotate()-has\ an\ int\ array\ parameter\ and\ int\ parameter,\ x.\r\n\ If\ x>0,\ rotate\ x\ units\ right\r\n\ If\ x<0,\ rotate\ -x\ units\ left\r\n\ If\ x\=0,\ do\ nothing\r\n
+comment7.params=a
+comment7.target=void\ print(int[])
+numComments=8

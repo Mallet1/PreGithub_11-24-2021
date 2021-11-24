@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Voters
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=age
+comment2.target=boolean\ vote(int)
+comment2.text=\r\n\ Write\ a\ method\ that\ takes\ the\ age\ as\ a\ \r\n\ parameter\ and\ returns\ true\ \r\n\ if\ the\ person\ can\ vote,\ false\ otherwise.\r\n
+numComments=3

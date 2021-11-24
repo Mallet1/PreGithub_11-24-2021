@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Traverse2DArrays
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ print(int[][])
+comment3.params=arr\ rowNum
+comment3.target=int\ sumRow(int[][],\ int)
+comment3.text=\r\n\ returns\ sum\ of\ elements\ in\ row\ number\ rowNum\r\n\ Precondition\:\ 0<rowNum<arr.length\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ arr\ contains\ at\ least\ one\ row\ and\ one\ column\r\n
+comment4.params=arr\ colNum
+comment4.target=int\ sumCol(int[][],\ int)
+comment4.text=\r\n\ returns\ sum\ of\ elements\ in\ column\ number\ colNum\r\n\ Precondition\:\ 0<colNum<arr[0].length\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ arr\ contains\ at\ least\ one\ row\ and\ one\ column\r\n
+comment5.params=arr\ num
+comment5.target=int\ countOver(int[][],\ int)
+comment5.text=\r\n\ returns\ number\ of\ elements\ in\ arr\ that\ are\ greater\ than\ num\ using\ a\ for-each\ loop\r\n\ Precondition\:\ arr\ contains\ at\ least\ one\ row\ and\ one\ column\r\n
+comment6.params=arr
+comment6.target=int[][]\ changeEvens(int[][])
+comment6.text=\r\n\ returns\ a\ new\ 2D\ array\ that\ is\ a\ copy\ of\ arr\ except\ that\ all\ even\ values\ have\ been\ increased\ by\ 2\r\n\ Precondition\:\ arr\ contains\ at\ least\ one\ row\ and\ one\ column\r\n\ Postcondion\:\ arr\ should\ not\ be\ modified\r\n
+numComments=7

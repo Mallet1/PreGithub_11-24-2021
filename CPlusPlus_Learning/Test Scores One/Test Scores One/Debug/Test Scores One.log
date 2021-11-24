@@ -1,0 +1,4 @@
+﻿  Test Scores One.cpp
+C:\Users\Sam Mallet\source\repos\Test Scores One\Test Scores One\Test Scores One.cpp(60,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam Mallet\source\repos\Test Scores One\Test Scores One\Test Scores One.cpp(65,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Test Scores One.vcxproj -> C:\Users\Sam Mallet\source\repos\Test Scores One\Debug\Test Scores One.exe

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Classroom
+comment1.params=rows\ desksPerRow\ names
+comment1.target=Classroom(int,\ int,\ java.lang.String[])
+comment1.text=\r\n\ Precondition\:\ names.length\ <\=\ rows*desksPerRow\r\n
+comment2.params=row\ col
+comment2.target=Desk\ getDesk(int,\ int)
+comment3.params=d\ name
+comment3.target=boolean\ fillDesk(Desk,\ java.lang.String)
+comment4.params=
+comment4.target=Desk\ findEmptyDesk()
+comment5.params=d1\ d2
+comment5.target=void\ swapDesks(Desk,\ Desk)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

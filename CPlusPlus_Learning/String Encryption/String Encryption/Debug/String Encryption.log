@@ -1,0 +1,3 @@
+﻿  String Encryption.cpp
+C:\Users\Sam Mallet\source\repos\String Encryption\String Encryption\String Encryption.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+  String Encryption.vcxproj -> C:\Users\Sam Mallet\source\repos\String Encryption\Debug\String Encryption.exe

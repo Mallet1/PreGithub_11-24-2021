@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Island
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getRandJob()
+comment3.params=name
+comment3.target=boolean\ puzzle1(java.lang.String)
+comment4.params=name
+comment4.target=boolean\ puzzle2(java.lang.String)
+comment5.params=name
+comment5.target=boolean\ puzzle3(java.lang.String)
+numComments=6

@@ -1,0 +1,6 @@
+﻿  Template Reversal.cpp
+C:\Users\Sam Mallet\source\repos\Template Reversal\Template Reversal\Template Reversal.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Template Reversal\Template Reversal\Template Reversal.cpp(23): message : see reference to function template instantiation 'void output<int>(std::vector<int,std::allocator<int>>)' being compiled
+C:\Users\Sam Mallet\source\repos\Template Reversal\Template Reversal\Template Reversal.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sam Mallet\source\repos\Template Reversal\Template Reversal\Template Reversal.cpp(26): message : see reference to function template instantiation 'void reverseVector<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  Template Reversal.vcxproj -> C:\Users\Sam Mallet\source\repos\Template Reversal\Debug\Template Reversal.exe

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Desk
+comment1.params=n
+comment1.target=Desk(java.lang.String)
+comment2.params=
+comment2.target=boolean\ getWobbles()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=w
+comment4.target=void\ setWobbles(boolean)
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=s
+comment6.target=java.lang.String\ makeWobbly(java.lang.String)
+comment6.text=\r\n\ makeWobbly()-->private\ helper\ function\r\n\ returns\ new\ String\ that\ makes\ every\ other\ letter\ uppercase,\ starting\ with\ \r\n\ first\ letter\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
